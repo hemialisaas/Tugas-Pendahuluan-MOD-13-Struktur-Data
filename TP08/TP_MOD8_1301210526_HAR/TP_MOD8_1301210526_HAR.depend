@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668365276 source:c:\users\user\documents\tp struktur data\tp08\tp_mod8_1301210526_har\csll.cpp
+	"csll.h"
+
+1668365276 c:\users\user\documents\tp struktur data\tp08\tp_mod8_1301210526_har\csll.h
+	<iostream>
+
+1668365228 source:c:\users\user\documents\tp struktur data\tp08\tp_mod8_1301210526_har\main.cpp
+	<iostream>
+	"csll.h"
+
